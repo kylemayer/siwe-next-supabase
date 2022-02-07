@@ -1,4 +1,4 @@
-"Sign-in with Ethereum address" - [tutorial](https://youtu.be/tVyQZ0CiMWI) by [Artur Chmarusso](https://github.com/Chmarusso)
+"Sign-in with Ethereum address" - [tutorial](https://youtu.be/tVyQZ0CiMWI) by [@Chmarusso](https://github.com/Chmarusso)
 
 developed using:
 
